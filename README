@@ -1,1 +1,3 @@
 This simple JavaScript constructor adds autosave functionality to any RESTful Rails form, or any form that follows the same conventions.
+
+Requires jQuery and underscore.js
